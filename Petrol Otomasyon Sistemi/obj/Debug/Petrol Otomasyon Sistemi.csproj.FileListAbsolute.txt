@@ -1,0 +1,12 @@
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\bin\Debug\Petrol Otomasyon Sistemi.exe.config
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\bin\Debug\Petrol Otomasyon Sistemi.exe
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\bin\Debug\Petrol Otomasyon Sistemi.pdb
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\obj\Debug\Petrol Otomasyon Sistemi.csproj.AssemblyReference.cache
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\obj\Debug\Petrol_Otomasyon_Sistemi.LoginForm.resources
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\obj\Debug\Petrol_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\obj\Debug\Petrol Otomasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\obj\Debug\Petrol Otomasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\obj\Debug\Petrol Otomasyon Sistemi.exe
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\obj\Debug\Petrol Otomasyon Sistemi.pdb
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\obj\Debug\Petrol_Otomasyon_Sistemi.PompaciForm.resources
+C:\Users\Kadir\source\repos\Petrol Otomasyon Sistemi\Petrol Otomasyon Sistemi\obj\Debug\Petrol_Otomasyon_Sistemi.KasaForm.resources
